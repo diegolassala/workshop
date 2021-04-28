@@ -5,7 +5,7 @@ layout: default
 
 # Muso Workshop Template!
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="IMG_20190316_170032515.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
 A minimal Jekyll theme with Bootstrap for creating workshop websites.
 
